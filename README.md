@@ -16,6 +16,8 @@ I'm [Luiz Fernando](https://luizfernandorodrigues.github.io/luizfernandorodrigue
 ---
 
 **Github Stats:**
+<br/>
+<br/>
   ![Luiz Fernando github stats](https://github-readme-stats.vercel.app/api?username=luizfernandorodrigues&show_icons=true)
   
 
