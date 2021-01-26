@@ -16,11 +16,8 @@ I'm [Luiz Fernando](https://luizfernandorodrigues.github.io/luizfernandorodrigue
 ---
 
 **Github Stats:**
-
-
-  [![Luiz Fernando github stats](https://github-readme-stats.vercel.app/api?username=luizfernandorodrigues)](https://github.com/luizfernandorodrigues/github-readme-stats)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfernandorodrigues&count_private=true&theme=dracula">
-
+  ![Luiz Fernando github stats](https://github-readme-stats.vercel.app/api?username=luizfernandorodrigues&show_icons=true)
+  
 
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
