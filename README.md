@@ -31,8 +31,4 @@ I'm [Luiz Fernando](https://verma-anushka.github.io/anushkaverma/), I am a deskt
  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luiz-fernando-rodrigues-pereira-74ab4559/)
 
-<div align="right">
-  
-[![HitCount](http://hits.dwyl.com/luizfernandorodrigues/luizfernandorodrigues.svg)](http://hits.dwyl.com/luizfernandorodrigues/luizfernandorodrigues) ![ViewCount](https://views.whatilearened.today/views/github/luizfernandorodrigues/luizfernandorodrigues.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://luizfernandorodrigues.github.io/luizfernandorodrigues/)
 
-</div>
