@@ -1,4 +1,4 @@
-I'm [Luiz Fernando](https://luizfernandorodrigues.github.io/luizfernandorodrigues/), I am a desktop developer who is starting out as a full stack web developer.
+Hi, I'm [Luiz Fernando](https://luizfernandorodrigues.github.io/luizfernandorodrigues/),  work as a .NET developer.
 
 ---
 
