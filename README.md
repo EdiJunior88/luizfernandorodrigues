@@ -18,10 +18,15 @@ I'm [Luiz Fernando](https://luizfernandorodrigues.github.io/luizfernandorodrigue
 **Github Stats:**
 <br/>
 <br/>
-  ![Luiz Fernando github stats](https://github-readme-stats.vercel.app/api?username=luizfernandorodrigues&show_icons=true&theme=dracula)
-  
-
-<p align="center">
+<p align=center>
+  <a href="https://github.com/luizfernandorodrigues/github-readme-stats" title="Go to Source">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=luizfernandorodrigues&show_icons=true&theme=dracula">
+  </a>
+  <a href="https://github.com/luizfernandorodrigues/github-readme-stats">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfernandorodrigues&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
+  </a>
+</p>
+  <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luiz-fernando-rodrigues-pereira-74ab4559/)
